@@ -12,5 +12,8 @@ int main()
     cin >> y;
     z = x*y;
     cout << "Le resultat de la multi est : " << z << endl;
+
+    cout << "Coucou c'est Sixitine"
+
     return 0;
 }
