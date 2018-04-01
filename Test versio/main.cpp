@@ -13,7 +13,7 @@ int main()
     z = x*y;
     cout << "Le resultat de la multi est : " << z << endl;
 
-    cout << "Coucou c'est Sixitine";
+    cout << "Coucou c'est Sixtine"<< endl;
 
     return 0;
 }
